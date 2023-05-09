@@ -2,6 +2,8 @@ package org.example;
 
 import scalar.lld.scalar.Student;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
 //        System.out.println("Hello world!");
@@ -9,5 +11,8 @@ public class Main {
         s.printDetails();
         System.out.println(s.getStudentStatus());
         System.out.println(s.getRollNumber());
+        ArrayList<Integer> randomList= null;
+        randomList.add(1);
+        //sdfsdf
     }
 }
