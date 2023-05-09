@@ -24,7 +24,7 @@ public class Student extends User{
 
     StudentStatus status;
 //    public void setStudentStatus(StudentStatus studentStatus) {
-//        this.studentStatus = studentStatus;
+//        this.studentStatus = studsentStatus;
 //    }
 
     String batchName;
