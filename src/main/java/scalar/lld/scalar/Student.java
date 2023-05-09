@@ -49,7 +49,7 @@ public class Student extends User{
     public static String toString(Student st){
         return st.batchName+ " "+st.name+ " "+st.email;
     }
-
+    //this method returns all the attributes of the students class
     public String toString(){
         return toString(this);
     }
